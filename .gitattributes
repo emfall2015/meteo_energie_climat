@@ -1,0 +1,2 @@
+data/temperatures/*.csv filter=lfs diff=lfs merge=lfs -text
+data/ensolleilement/*.csv filter=lfs diff=lfs merge=lfs -text

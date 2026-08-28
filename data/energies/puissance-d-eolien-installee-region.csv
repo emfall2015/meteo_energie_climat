@@ -1,0 +1,410 @@
+date_mesure,geocode_region,libelle_region,type_installation,vecteur,valeur
+1998-01-01,32,Hauts-de-France,Terrestre,Eolien,4.8
+1999-01-01,32,Hauts-de-France,Terrestre,Eolien,4.8
+1999-01-01,94,Corse,Photovoltaïque,Eolien,12.0
+2000-01-01,32,Hauts-de-France,Terrestre,Eolien,4.8
+2000-01-01,94,Corse,Photovoltaïque,Eolien,12.0
+2001-01-01,32,Hauts-de-France,Terrestre,Eolien,5.55
+2001-01-01,76,Occitanie,Terrestre,Eolien,4.23
+2001-01-01,94,Corse,Photovoltaïque,Eolien,12.0
+2002-01-01,32,Hauts-de-France,Terrestre,Eolien,9.85
+2002-01-01,53,Bretagne,Terrestre,Eolien,1.2
+2002-01-01,76,Occitanie,Terrestre,Eolien,71.48286999999999
+2002-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,0.85
+2002-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2003-01-01,32,Hauts-de-France,Terrestre,Eolien,34.85
+2003-01-01,44,Grand Est,Terrestre,Eolien,3.75
+2003-01-01,52,Pays de la Loire,Terrestre,Eolien,12.0
+2003-01-01,53,Bretagne,Terrestre,Eolien,7.2
+2003-01-01,76,Occitanie,Terrestre,Eolien,98.21687
+2003-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,2.0
+2003-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,0.85
+2003-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2004-01-01,04,La Réunion,Photovoltaïque,Eolien,6.325
+2004-01-01,28,Normandie,Terrestre,Eolien,9.5
+2004-01-01,32,Hauts-de-France,Terrestre,Eolien,88.157
+2004-01-01,44,Grand Est,Terrestre,Eolien,3.75
+2004-01-01,52,Pays de la Loire,Terrestre,Eolien,12.0
+2004-01-01,53,Bretagne,Terrestre,Eolien,18.7
+2004-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,18.0
+2004-01-01,76,Occitanie,Terrestre,Eolien,110.38687
+2004-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,26.05
+2004-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,0.85
+2004-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2005-01-01,04,La Réunion,Photovoltaïque,Eolien,6.325
+2005-01-01,24,Centre-Val de Loire,Terrestre,Eolien,24.0
+2005-01-01,28,Normandie,Terrestre,Eolien,36.788
+2005-01-01,32,Hauts-de-France,Terrestre,Eolien,136.15699999999998
+2005-01-01,44,Grand Est,Terrestre,Eolien,132.25
+2005-01-01,52,Pays de la Loire,Terrestre,Eolien,16.25
+2005-01-01,53,Bretagne,Terrestre,Eolien,71.3
+2005-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,18.0
+2005-01-01,76,Occitanie,Terrestre,Eolien,154.48687
+2005-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,99.95
+2005-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,21.25
+2005-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2006-01-01,01,Guadeloupe,Photovoltaïque,Eolien,3.025
+2006-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2006-01-01,11,Île-de-France,Terrestre,Eolien,0.132
+2006-01-01,24,Centre-Val de Loire,Terrestre,Eolien,236.14999999999998
+2006-01-01,28,Normandie,Terrestre,Eolien,63.288
+2006-01-01,32,Hauts-de-France,Terrestre,Eolien,228.15699999999998
+2006-01-01,44,Grand Est,Terrestre,Eolien,284.44000000000005
+2006-01-01,52,Pays de la Loire,Terrestre,Eolien,64.15
+2006-01-01,53,Bretagne,Terrestre,Eolien,148.89999999999998
+2006-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,18.0
+2006-01-01,76,Occitanie,Terrestre,Eolien,254.04206999999997
+2006-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,129.95
+2006-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,31.25
+2006-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2007-01-01,01,Guadeloupe,Photovoltaïque,Eolien,5.5
+2007-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2007-01-01,11,Île-de-France,Terrestre,Eolien,0.132
+2007-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,10.0
+2007-01-01,24,Centre-Val de Loire,Terrestre,Eolien,259.65
+2007-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,30.0
+2007-01-01,28,Normandie,Terrestre,Eolien,117.288
+2007-01-01,32,Hauts-de-France,Terrestre,Eolien,399.107
+2007-01-01,44,Grand Est,Terrestre,Eolien,448.465
+2007-01-01,52,Pays de la Loire,Terrestre,Eolien,127.85
+2007-01-01,53,Bretagne,Terrestre,Eolien,206.6
+2007-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,30.0
+2007-01-01,76,Occitanie,Terrestre,Eolien,363.74207
+2007-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,150.25
+2007-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,38.45
+2007-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2008-01-01,01,Guadeloupe,Photovoltaïque,Eolien,5.5
+2008-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2008-01-01,11,Île-de-France,Terrestre,Eolien,0.132
+2008-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,22.984
+2008-01-01,24,Centre-Val de Loire,Terrestre,Eolien,311.65
+2008-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,80.0
+2008-01-01,28,Normandie,Terrestre,Eolien,162.788
+2008-01-01,32,Hauts-de-France,Terrestre,Eolien,628.3070000000001
+2008-01-01,44,Grand Est,Terrestre,Eolien,616.277
+2008-01-01,52,Pays de la Loire,Terrestre,Eolien,174.42
+2008-01-01,53,Bretagne,Terrestre,Eolien,281.57
+2008-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,104.0
+2008-01-01,76,Occitanie,Terrestre,Eolien,614.12207
+2008-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,209.35
+2008-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2008-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2009-01-01,01,Guadeloupe,Photovoltaïque,Eolien,5.5
+2009-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2009-01-01,11,Île-de-France,Terrestre,Eolien,0.132
+2009-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,61.384
+2009-01-01,24,Centre-Val de Loire,Terrestre,Eolien,394.65
+2009-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,80.0
+2009-01-01,28,Normandie,Terrestre,Eolien,253.88799999999998
+2009-01-01,32,Hauts-de-France,Terrestre,Eolien,957.842
+2009-01-01,44,Grand Est,Terrestre,Eolien,887.1269999999998
+2009-01-01,52,Pays de la Loire,Terrestre,Eolien,262.97
+2009-01-01,53,Bretagne,Terrestre,Eolien,372.92
+2009-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,124.0
+2009-01-01,76,Occitanie,Autre,Eolien,0.8
+2009-01-01,76,Occitanie,Terrestre,Eolien,693.8220699999999
+2009-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,252.04999999999998
+2009-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2009-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2010-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2010-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2010-01-01,11,Île-de-France,Terrestre,Eolien,0.132
+2010-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,103.384
+2010-01-01,24,Centre-Val de Loire,Terrestre,Eolien,427.65
+2010-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,92.0
+2010-01-01,28,Normandie,Terrestre,Eolien,337.28799999999995
+2010-01-01,32,Hauts-de-France,Terrestre,Eolien,1100.942
+2010-01-01,44,Grand Est,Terrestre,Eolien,1369.877
+2010-01-01,52,Pays de la Loire,Terrestre,Eolien,377.4700000000001
+2010-01-01,53,Bretagne,Terrestre,Eolien,543.72
+2010-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,179.01199999999997
+2010-01-01,76,Occitanie,Autre,Eolien,0.8
+2010-01-01,76,Occitanie,Terrestre,Eolien,753.36107
+2010-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,282.04999999999995
+2010-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2010-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2011-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2011-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2011-01-01,11,Île-de-France,Terrestre,Eolien,18.532
+2011-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,115.384
+2011-01-01,24,Centre-Val de Loire,Terrestre,Eolien,514.05
+2011-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,121.6
+2011-01-01,28,Normandie,Terrestre,Eolien,401.62999999999994
+2011-01-01,32,Hauts-de-France,Terrestre,Eolien,1252.1419999999998
+2011-01-01,44,Grand Est,Terrestre,Eolien,1571.3770000000002
+2011-01-01,52,Pays de la Loire,Terrestre,Eolien,404.67
+2011-01-01,53,Bretagne,Terrestre,Eolien,570.4200000000001
+2011-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,301.312
+2011-01-01,76,Occitanie,Autre,Eolien,0.8
+2011-01-01,76,Occitanie,Terrestre,Eolien,828.5610700000001
+2011-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,317.44999999999993
+2011-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2011-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2012-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2012-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2012-01-01,11,Île-de-France,Terrestre,Eolien,18.532
+2012-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,115.384
+2012-01-01,24,Centre-Val de Loire,Terrestre,Eolien,533.95
+2012-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,167.916
+2012-01-01,28,Normandie,Terrestre,Eolien,425.22999999999996
+2012-01-01,32,Hauts-de-France,Terrestre,Eolien,1486.472
+2012-01-01,44,Grand Est,Terrestre,Eolien,1793.3770000000002
+2012-01-01,52,Pays de la Loire,Terrestre,Eolien,464.558
+2012-01-01,53,Bretagne,Terrestre,Eolien,642.913
+2012-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,369.812
+2012-01-01,76,Occitanie,Autre,Eolien,0.8
+2012-01-01,76,Occitanie,Terrestre,Eolien,863.0610700000001
+2012-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,341.44999999999993
+2012-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2012-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2013-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2013-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2013-01-01,11,Île-de-France,Terrestre,Eolien,18.532
+2013-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,139.984
+2013-01-01,24,Centre-Val de Loire,Terrestre,Eolien,586.014
+2013-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,180.216
+2013-01-01,28,Normandie,Terrestre,Eolien,447.10499999999996
+2013-01-01,32,Hauts-de-France,Terrestre,Eolien,1649.132
+2013-01-01,44,Grand Est,Terrestre,Eolien,1964.1830000000002
+2013-01-01,52,Pays de la Loire,Terrestre,Eolien,530.3620000000001
+2013-01-01,53,Bretagne,Terrestre,Eolien,674.2669999999999
+2013-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,394.11600000000004
+2013-01-01,76,Occitanie,Autre,Eolien,0.8
+2013-01-01,76,Occitanie,Terrestre,Eolien,884.26107
+2013-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,341.44999999999993
+2013-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2013-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2014-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2014-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2014-01-01,11,Île-de-France,Terrestre,Eolien,18.532
+2014-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,139.984
+2014-01-01,24,Centre-Val de Loire,Terrestre,Eolien,648.289
+2014-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,309.396
+2014-01-01,28,Normandie,Terrestre,Eolien,502.6909999999999
+2014-01-01,32,Hauts-de-France,Terrestre,Eolien,1985.1850000000002
+2014-01-01,44,Grand Est,Terrestre,Eolien,2319.023
+2014-01-01,52,Pays de la Loire,Terrestre,Eolien,561.232
+2014-01-01,53,Bretagne,Terrestre,Eolien,718.799
+2014-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,529.9060000000001
+2014-01-01,76,Occitanie,Autre,Eolien,0.8
+2014-01-01,76,Occitanie,Terrestre,Eolien,938.65107
+2014-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,359.68999999999994
+2014-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,45.35
+2014-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2015-01-01,01,Guadeloupe,Photovoltaïque,Eolien,7.15
+2015-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2015-01-01,11,Île-de-France,Terrestre,Eolien,43.492000000000004
+2015-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,139.984
+2015-01-01,24,Centre-Val de Loire,Terrestre,Eolien,679.5889999999999
+2015-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,380.031
+2015-01-01,28,Normandie,Terrestre,Eolien,545.191
+2015-01-01,32,Hauts-de-France,Terrestre,Eolien,2311.009
+2015-01-01,44,Grand Est,Terrestre,Eolien,2535.5930000000003
+2015-01-01,52,Pays de la Loire,Terrestre,Eolien,615.08368
+2015-01-01,53,Bretagne,Terrestre,Eolien,746.599
+2015-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,617.7339999999999
+2015-01-01,76,Occitanie,Autre,Eolien,0.8
+2015-01-01,76,Occitanie,Terrestre,Eolien,1093.4260699999998
+2015-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,385.95599999999996
+2015-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,48.050000000000004
+2015-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2016-01-01,01,Guadeloupe,Photovoltaïque,Eolien,9.625
+2016-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2016-01-01,11,Île-de-France,Terrestre,Eolien,43.492000000000004
+2016-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,139.984
+2016-01-01,24,Centre-Val de Loire,Terrestre,Eolien,754.4689999999999
+2016-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,512.731
+2016-01-01,28,Normandie,Terrestre,Eolien,622.455
+2016-01-01,32,Hauts-de-France,Terrestre,Eolien,2741.603
+2016-01-01,44,Grand Est,Terrestre,Eolien,2828.287000000001
+2016-01-01,52,Pays de la Loire,Terrestre,Eolien,716.67368
+2016-01-01,53,Bretagne,Terrestre,Eolien,805.0690000000001
+2016-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,784.534
+2016-01-01,76,Occitanie,Autre,Eolien,0.8
+2016-01-01,76,Occitanie,Terrestre,Eolien,1178.06107
+2016-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,427.484
+2016-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,48.050000000000004
+2016-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2017-01-01,01,Guadeloupe,Photovoltaïque,Eolien,9.625
+2017-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2017-01-01,11,Île-de-France,Terrestre,Eolien,70.422
+2017-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,163.484
+2017-01-01,24,Centre-Val de Loire,Terrestre,Eolien,805.9689999999999
+2017-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,644.1690000000001
+2017-01-01,28,Normandie,Terrestre,Eolien,705.235
+2017-01-01,32,Hauts-de-France,Terrestre,Eolien,3368.874839999999
+2017-01-01,44,Grand Est,Terrestre,Eolien,3045.533000000001
+2017-01-01,52,Pays de la Loire,Terrestre,Eolien,805.76368
+2017-01-01,53,Bretagne,Terrestre,Eolien,869.4190000000001
+2017-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1023.584
+2017-01-01,76,Occitanie,Autre,Eolien,0.8
+2017-01-01,76,Occitanie,Terrestre,Eolien,1344.9110699999999
+2017-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,551.148
+2017-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,48.050000000000004
+2017-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2018-01-01,01,Guadeloupe,Photovoltaïque,Eolien,9.625
+2018-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2018-01-01,11,Île-de-France,Terrestre,Eolien,70.422
+2018-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,163.484
+2018-01-01,24,Centre-Val de Loire,Terrestre,Eolien,929.025
+2018-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,728.1190000000001
+2018-01-01,28,Normandie,Terrestre,Eolien,802.1850000000001
+2018-01-01,32,Hauts-de-France,Terrestre,Eolien,3978.5348399999993
+2018-01-01,44,Grand Est,Terrestre,Eolien,3362.733000000001
+2018-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2018-01-01,52,Pays de la Loire,Terrestre,Eolien,892.2836799999999
+2018-01-01,53,Bretagne,Terrestre,Eolien,915.819
+2018-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1114.484
+2018-01-01,76,Occitanie,Autre,Eolien,0.8
+2018-01-01,76,Occitanie,Terrestre,Eolien,1461.1550699999998
+2018-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,604.588
+2018-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,48.050000000000004
+2018-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2019-01-01,01,Guadeloupe,Photovoltaïque,Eolien,32.825
+2019-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2019-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2019-01-01,11,Île-de-France,Terrestre,Eolien,90.22200000000001
+2019-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,163.484
+2019-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1045.925
+2019-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,829.6989999999998
+2019-01-01,28,Normandie,Terrestre,Eolien,816.5850000000002
+2019-01-01,32,Hauts-de-France,Terrestre,Eolien,4564.941959999999
+2019-01-01,44,Grand Est,Terrestre,Eolien,3584.1930000000016
+2019-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2019-01-01,52,Pays de la Loire,Terrestre,Eolien,992.9836799999999
+2019-01-01,53,Bretagne,Terrestre,Eolien,948.719
+2019-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1236.484
+2019-01-01,76,Occitanie,Autre,Eolien,0.8
+2019-01-01,76,Occitanie,Terrestre,Eolien,1545.6680699999997
+2019-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,632.038
+2019-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,48.050000000000004
+2019-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2020-01-01,01,Guadeloupe,Photovoltaïque,Eolien,41.825
+2020-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2020-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2020-01-01,11,Île-de-France,Terrestre,Eolien,107.22200000000001
+2020-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,163.484
+2020-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1137.925
+2020-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,874.4689999999999
+2020-01-01,28,Normandie,Terrestre,Eolien,842.2150000000001
+2020-01-01,32,Hauts-de-France,Terrestre,Eolien,4994.3229599999995
+2020-01-01,44,Grand Est,Terrestre,Eolien,3881.472000000001
+2020-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2020-01-01,52,Pays de la Loire,Terrestre,Eolien,1062.7736800000002
+2020-01-01,53,Bretagne,Terrestre,Eolien,977.1729999999999
+2020-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1382.634
+2020-01-01,76,Occitanie,Autre,Eolien,0.8
+2020-01-01,76,Occitanie,Terrestre,Eolien,1568.6680699999997
+2020-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,720.238
+2020-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2020-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2021-01-01,01,Guadeloupe,Photovoltaïque,Eolien,51.725
+2021-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2021-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2021-01-01,11,Île-de-France,Terrestre,Eolien,130.922
+2021-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,177.584
+2021-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1212.825
+2021-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,959.6639999999999
+2021-01-01,28,Normandie,Terrestre,Eolien,922.0150000000001
+2021-01-01,32,Hauts-de-France,Terrestre,Eolien,5334.25096
+2021-01-01,44,Grand Est,Terrestre,Eolien,4258.857
+2021-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2021-01-01,52,Pays de la Loire,Terrestre,Eolien,1152.2736799999998
+2021-01-01,53,Bretagne,Terrestre,Eolien,1069.7540000000001
+2021-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1583.0839999999998
+2021-01-01,76,Occitanie,Autre,Eolien,0.8
+2021-01-01,76,Occitanie,Terrestre,Eolien,1568.6680699999997
+2021-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,720.238
+2021-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2021-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2022-01-01,01,Guadeloupe,Photovoltaïque,Eolien,51.725
+2022-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2022-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2022-01-01,11,Île-de-France,Terrestre,Eolien,130.922
+2022-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,177.584
+2022-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1402.3449999999998
+2022-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,1035.1639999999998
+2022-01-01,28,Normandie,Terrestre,Eolien,975.9150000000001
+2022-01-01,32,Hauts-de-France,Terrestre,Eolien,5794.5639599999995
+2022-01-01,44,Grand Est,Terrestre,Eolien,4635.157000000001
+2022-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2022-01-01,52,Pays de la Loire,En mer posé,Eolien,480.0
+2022-01-01,52,Pays de la Loire,Terrestre,Eolien,1250.0636799999997
+2022-01-01,53,Bretagne,Terrestre,Eolien,1225.8389999999997
+2022-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,1940.234
+2022-01-01,76,Occitanie,Autre,Eolien,0.8
+2022-01-01,76,Occitanie,Terrestre,Eolien,1644.0680699999998
+2022-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,720.238
+2022-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2022-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2023-01-01,01,Guadeloupe,Photovoltaïque,Eolien,51.725
+2023-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2023-01-01,04,La Réunion,Non renseigné,Eolien,8.8
+2023-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2023-01-01,11,Île-de-France,Terrestre,Eolien,130.922
+2023-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,177.584
+2023-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1506.585
+2023-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,1156.1889999999999
+2023-01-01,28,Normandie,En mer posé,Eolien,497.0
+2023-01-01,28,Normandie,Terrestre,Eolien,1043.195
+2023-01-01,32,Hauts-de-France,Terrestre,Eolien,6140.40296
+2023-01-01,44,Grand Est,Terrestre,Eolien,4785.067000000003
+2023-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2023-01-01,52,Pays de la Loire,En mer posé,Eolien,480.0
+2023-01-01,52,Pays de la Loire,Terrestre,Eolien,1341.4386799999997
+2023-01-01,53,Bretagne,En mer posé,Eolien,496.0
+2023-01-01,53,Bretagne,Terrestre,Eolien,1263.639
+2023-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,2282.0939999999996
+2023-01-01,76,Occitanie,Autre,Eolien,0.8
+2023-01-01,76,Occitanie,Terrestre,Eolien,1699.74807
+2023-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,737.238
+2023-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2023-01-01,94,Corse,Photovoltaïque,Eolien,18.0
+2024-01-01,01,Guadeloupe,Photovoltaïque,Eolien,51.725
+2024-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2024-01-01,04,La Réunion,Non renseigné,Eolien,19.8
+2024-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2024-01-01,11,Île-de-France,Terrestre,Eolien,130.922
+2024-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,200.38400000000001
+2024-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1571.5399999999997
+2024-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,1189.1889999999999
+2024-01-01,28,Normandie,En mer posé,Eolien,497.0
+2024-01-01,28,Normandie,Terrestre,Eolien,1068.995
+2024-01-01,32,Hauts-de-France,Terrestre,Eolien,6458.22296
+2024-01-01,44,Grand Est,Terrestre,Eolien,5056.801000000003
+2024-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2024-01-01,52,Pays de la Loire,En mer posé,Eolien,480.0
+2024-01-01,52,Pays de la Loire,Terrestre,Eolien,1409.1786799999998
+2024-01-01,53,Bretagne,En mer posé,Eolien,496.0
+2024-01-01,53,Bretagne,Terrestre,Eolien,1380.9389999999999
+2024-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,2545.733999999999
+2024-01-01,76,Occitanie,Autre,Eolien,0.8
+2024-01-01,76,Occitanie,Terrestre,Eolien,1786.1980700000001
+2024-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,737.238
+2024-01-01,93,Provence-Alpes-Côte d'Azur,En mer posé,Eolien,25.2
+2024-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2024-01-01,94,Corse,Photovoltaïque,Eolien,29.7
+2025-01-01,01,Guadeloupe,Photovoltaïque,Eolien,51.725
+2025-01-01,02,Martinique,Photovoltaïque,Eolien,14.0
+2025-01-01,04,La Réunion,Non renseigné,Eolien,19.8
+2025-01-01,04,La Réunion,Photovoltaïque,Eolien,14.825
+2025-01-01,11,Île-de-France,Terrestre,Eolien,143.522
+2025-01-01,24,Centre-Val de Loire,Non renseigné,Eolien,200.38400000000001
+2025-01-01,24,Centre-Val de Loire,Terrestre,Eolien,1637.0399999999997
+2025-01-01,27,Bourgogne-Franche-Comté,Terrestre,Eolien,1204.0389999999998
+2025-01-01,28,Normandie,En mer posé,Eolien,497.0
+2025-01-01,28,Normandie,Terrestre,Eolien,1177.791
+2025-01-01,32,Hauts-de-France,Terrestre,Eolien,6721.157960000002
+2025-01-01,44,Grand Est,Terrestre,Eolien,5242.489000000005
+2025-01-01,52,Pays de la Loire,En mer flottant,Eolien,10.0
+2025-01-01,52,Pays de la Loire,En mer posé,Eolien,980.0
+2025-01-01,52,Pays de la Loire,Terrestre,Eolien,1458.3486799999996
+2025-01-01,53,Bretagne,En mer posé,Eolien,496.0
+2025-01-01,53,Bretagne,Terrestre,Eolien,1486.939
+2025-01-01,75,Nouvelle-Aquitaine,Terrestre,Eolien,2623.873999999999
+2025-01-01,76,Occitanie,Autre,Eolien,0.8
+2025-01-01,76,Occitanie,Terrestre,Eolien,1834.59807
+2025-01-01,84,Auvergne-Rhône-Alpes,Terrestre,Eolien,789.4630000000001
+2025-01-01,93,Provence-Alpes-Côte d'Azur,En mer posé,Eolien,25.2
+2025-01-01,93,Provence-Alpes-Côte d'Azur,Terrestre,Eolien,96.45
+2025-01-01,94,Corse,Photovoltaïque,Eolien,29.7
