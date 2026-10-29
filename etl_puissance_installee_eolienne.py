@@ -45,7 +45,7 @@ df["puissance_installee_eolienne_MW"] = df["puissance_installee_eolienne_MW"].as
 )
 
 
-# Faire la somme s'il y'a plusieurs mesures et type d'installation(En mer posé, Terrestre)
+# Faire la somme s'il y'a plusieurs mesures et type d'installation(En mer posé,Terrestre)
 df = (
     df.groupby(["region", "year", "month"])["puissance_installee_eolienne_MW"]
     .sum()

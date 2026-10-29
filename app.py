@@ -124,12 +124,7 @@ if menu=="Vue générale":
     )
 
     puissance_eolienne = puissance_eolienne_par_region.mean()
-    
-    
-    # puissance_eolienne = df_annee_vent[
-    #     "puissance_installee_eolienne_MW"
-    # ].mean()
-    
+
     
     
 
@@ -1031,7 +1026,6 @@ elif menu=="Production éolienne":
                 "Apres_2019": df_sup
             })
 
-    #************************************
             
         
 
@@ -1190,9 +1184,3 @@ elif menu=="Production solaire":
         fig,
         use_container_width=True
     )
-    
-
-# -------------------------------------------------------------------------------------
-# CORRELATIONS
-# -------------------------------------------------------------------------------------
-

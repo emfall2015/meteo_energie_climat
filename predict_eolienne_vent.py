@@ -32,10 +32,6 @@ df["region_code"] = encoder.fit_transform(df["region"])
 # Séparer les données entraînement et test
 #---------------------------------------------------------------------------------------
 
-# df_train = df[
-#     (df["region"] == "Bretagne") &
-#     (df["year"] <= 2019)
-# ].copy()
 
 df_train = df[
     df["year"] <= 2019
@@ -44,11 +40,6 @@ df_train = df[
 df_test = df[
     df["year"] > 2019
 ].copy()
-
-# df_test = df[
-#     (df["region"] == "Bretagne") &
-#     (df["year"] > 2019)
-# ].copy()
 
 
 # Supprimer les lignes sans production
@@ -131,7 +122,6 @@ print("--------------------------------")
 print("Comparaison production réelle / prédite 2024")
 print("--------------------------------")
 
-print(resultats)
 
 
 #---------------------------------------------------------------------------------------
