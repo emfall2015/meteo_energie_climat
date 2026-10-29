@@ -7,7 +7,6 @@
 
 L'objectif est de mettre en pratique les compétences acquises durant la formation en travaillant sur des **datasets réels et volumineux**, en explorant différentes techniques de traitement de données, de visualisation et de modélisation prédictive.
 
-
 L'application permet de :
 
 * Explorer les données météorologiques et énergétiques - météo france
@@ -18,8 +17,6 @@ L'application permet de :
 * Prédire la production énergétique
 * Comparer différentes régions françaises
 * Évaluer les performances des modèles
-
-
 
 # Objectifs
 
@@ -53,12 +50,11 @@ Construire des modèles capables de prédire :
 
 * la production solaire
 * la production éolienne
-* éventuellement la production énergétique future selon différents scénarios météo
+* la température moyenne en 2035
 
 ### Application
 
 Mettre à disposition les résultats à travers une application web interactive permettant à l'utilisateur d'explorer les données et de tester les prédictions.
-
 
 
 # Problématique
@@ -76,7 +72,6 @@ Plusieurs questions secondaires pourront être étudiées :
 * Quels paramètres météorologiques sont les plus importants pour prédire la production ?
 * Quel modèle de Machine Learning obtient les meilleures performances ?
 * Peut-on anticiper la production énergétique à court terme ?
-
 
 
 # Sources des données
@@ -190,7 +185,6 @@ pip install -r requirements.txt
 ```
 
 
-
 # Installation des données
 
 Télécharger les datasets depuis les sources officielles puis les placer dans :
@@ -200,7 +194,6 @@ data/
 ```
 
 Les données brutes ne sont pas versionnées dans Git afin d'éviter de surcharger le repository.
-
 
 
 # Préparation des données
@@ -274,8 +267,6 @@ production_lag_7
 production_lag_30
 ```
 
-
-
 # Modélisation
 
 Le projet suivra une démarche classique de Machine Learning.
@@ -297,7 +288,6 @@ Sélection du meilleur modèle
    ↓
 Prédiction
 ```
-
 
 #  Lancement de l'application
 
@@ -331,6 +321,17 @@ Voici quelques captures d'écran de l'application.
 
 ![prevision_2035_2](./screenshots/prevision_2035_2.png)
 
+## Impact Rayonnement sur la production solaire
+
+![impact_rayonnement_production_solaire](./screenshots/impact_rayonnement_production_solaire.png)
+
+## Prédiction production éolienne par région
+
+![predire_production_eolienne_region](./screenshots/predire_production_eolienne_region.png)
+
+## Evaluation prédiction production éolienne
+
+![predire_production_eolienne_region](./screenshots/evaluation_production_eolienne.png)
 
 
 # Évolutions possibles
@@ -341,8 +342,6 @@ Voici quelques captures d'écran de l'application.
 * Déploiement cloud
 * Monitoring des modèles
 * MLOps 
-
-
 
 # Licence
 
