@@ -255,17 +255,6 @@ précipitations
 pression
 ```
 
-### Variables dérivées
-
-Par exemple :
-
-```text
-moyenne_mobile_7j
-moyenne_mobile_30j
-production_lag_1
-production_lag_7
-production_lag_30
-```
 
 # Modélisation
 
